@@ -22,10 +22,10 @@
 #include "SinricProWindowAC.h"
 
 #define WIFI_SSID         "HDSST"
-#define WIFI_PASS         "Sueslen2018"
-#define APP_KEY           "cf2049a5-30d9-4693-a1a4-a5b736075cb0"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "29a1b9ae-7073-4508-b9c3-53c916cc8c62-e498521c-58fe-412a-99a9-9a79475d62ba"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
-#define ACUNIT_ID         "6416345c1bb4e19c11ba3fc3"    // Should look like "5dc1564130xxxxxxxxxxxxxx"
+#define WIFI_PASS         "###"
+#define APP_KEY           "####"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "####"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define ACUNIT_ID         "####"    // Should look like "5dc1564130xxxxxxxxxxxxxx"
 #define BAUD_RATE         115200                     // Change baudrate to your need
 
 #define kIrLed 14         //Pino onde o LED IR está conectado
