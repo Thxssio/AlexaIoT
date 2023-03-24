@@ -6,7 +6,7 @@
 
 > Integração de ar condicionado com alexa e com sinric, basicamente podemos controlar a temperatura com a alexa por comando de voz, o codigo ainda está bem basico, porém está funcional.
 
-- Arduino - sinric e arduino, a automação de ar condicionado.
+- Arduino - Sinric, Para automação de ar condicionado.
 
 ---
 
